@@ -5,6 +5,7 @@ import mockupImage1 from '../assets/img1.jpg';
 import mockupImage2 from '../assets/img2.jpg';
 import mockupImage3 from '../assets/img3.png';
 import mockupImage4 from '../assets/img4.jpg';
+import mockupImage5 from '../assets/img5.jpg';
 
 
 const projects = [
@@ -35,6 +36,13 @@ const projects = [
     image: mockupImage4,
     tags: ["React", "Tailwind", "Framer-Motion"],
     liveUrl: "https://restaurant-elegance.netlify.app/"
+  },
+  {
+    title: "Futuristic VR Headset",
+    description: "A modern futuristic VR website with a focus on elegance and tech theme with proper layout.",
+    image: mockupImage5,
+    tags: ["React", "Tailwind", "Framer-Motion"],
+    liveUrl: "https://vrhead.netlify.app/"
   }
 ];
 
