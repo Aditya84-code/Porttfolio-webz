@@ -6,6 +6,7 @@ import mockupImage2 from '../assets/img2.jpg';
 import mockupImage3 from '../assets/img3.png';
 import mockupImage4 from '../assets/img4.jpg';
 import mockupImage5 from '../assets/img5.jpg';
+import mockupImage6 from '../assets/img6.jpg';
 
 
 const projects = [
@@ -43,6 +44,13 @@ const projects = [
     image: mockupImage5,
     tags: ["React", "Tailwind", "Framer-Motion"],
     liveUrl: "https://vrhead.netlify.app/"
+  },
+  {
+    title: "Travel Website",
+    description: "A modern travel website with 3D z-axis scrolling effect showcasing the best places to visit",
+    image: mockupImage6,
+    tags: ["React", "Tailwind", "Framer-Motion"],
+    liveUrl: "https://travelvoyager.netlify.app/"
   }
 ];
 
