@@ -7,6 +7,7 @@ import mockupImage3 from '../assets/img3.png';
 import mockupImage4 from '../assets/img4.jpg';
 import mockupImage5 from '../assets/img5.jpg';
 import mockupImage6 from '../assets/img6.jpg';
+import mockupImage7 from '../assets/img7.jpg';
 
 
 const projects = [
@@ -51,6 +52,13 @@ const projects = [
     image: mockupImage6,
     tags: ["React", "Tailwind", "Framer-Motion"],
     liveUrl: "https://travelvoyager.netlify.app/"
+  },
+  {
+    title: "Product Service Website",
+    description: "A modern video software tool website made with clean subtle look",
+    image: mockupImage7,
+    tags: ["React", "Tailwind", "Framer-Motion"],
+    liveUrl: "https://glitter20.netlify.app/"
   }
 ];
 
